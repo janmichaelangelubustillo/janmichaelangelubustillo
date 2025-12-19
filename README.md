@@ -92,7 +92,7 @@
       </div>
     </td>
       <div style="margin-bottom: 15px;">
-        <h1 style="font-size: 48px; font-weight: bold; color: #6B46C1; margin: 0; line-height: 1.1; letter-spacing: 2px;">MIKAEL</h1>
+        <h1 style="font-size: 48px; font-weight: bold; color: gradient; margin: 0; line-height: 1.1; letter-spacing: 2px;">MIKAEL</h1>
         <hr style="border: 1px solid #000000; width: 80%; margin: 10px auto;">
       </div>
       <div>
