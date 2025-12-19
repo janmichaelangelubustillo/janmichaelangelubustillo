@@ -1,4 +1,4 @@
-    <!-- Header with Animated Background -->
+<!-- Header with Animated Background -->
 <div align="center" style="
     background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
     padding: 2rem 1rem;
@@ -65,21 +65,7 @@ I'm a passionate developer who loves to work on exciting projects and contribute
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-## 🛠️ Languages and Tools
 
-<div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning-bolt.gif" width="12"> 
-  <span>⚡</span> <b>Skills and Tools:</b> <span>⚡</span>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning-bolt.gif" width="12">
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
 
 ## 🗂️ Featured Repositories
 
