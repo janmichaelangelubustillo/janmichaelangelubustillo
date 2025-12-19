@@ -29,6 +29,9 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 ## 🚀 About Me
 I'm a passionate developer who loves to work on exciting projects and contribute to open source. I enjoy learning new technologies and sharing my knowledge with the community.
@@ -125,10 +128,6 @@ I'm a passionate developer who loves to work on exciting projects and contribute
   <img src="https://komarev.com/ghpvc/?username=janmichaelangelubustillo&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
 ## 🎧 Spotify Playing
 
 <div align="center">
@@ -172,7 +171,9 @@ I'm a passionate developer who loves to work on exciting projects and contribute
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif" width="300" />
@@ -182,7 +183,9 @@ I'm a passionate developer who loves to work on exciting projects and contribute
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" />
