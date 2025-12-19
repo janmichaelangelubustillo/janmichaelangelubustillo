@@ -25,9 +25,6 @@
   </div>
 </div>
 
-<!-- Animated Divider -->
-
-
 <!-- Animated Wave Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -36,7 +33,9 @@
 ## 🚀 About Me
 I'm a passionate developer who loves to work on exciting projects and contribute to open source. I enjoy learning new technologies and sharing my knowledge with the community.
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 ## 🛠️ Languages and Tools
 
