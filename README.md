@@ -23,14 +23,13 @@
       opacity: 0.4;
       animation: gradientBG 15s ease infinite;
   "></div>
-  
-  <style>
+    <style>
     @keyframes gradientBG {
       0% { background-position: 0% 50%; }
       50% { background-position: 100% 50%; }
       100% { background-position: 0% 50%; }
     }
-  </style>
+    </style>
 
   <div style="position: relative; z-index: 1;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=HELLO+EVERYONE+I+AM;M+I+K+A+E+L" alt="Typing SVG" />
