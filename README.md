@@ -1,22 +1,33 @@
 <!-- Header Design -->
-<p align="center">
-  <img src="https://via.placeholder.com/900x200/C8E6C9/000000?text=ELLAINE+TOLENTINO+%7C+Software+Engineer+%7C+Design+Enthusiast" alt="Header" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);"/>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ellainet">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tolenting.el@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://dev.tr/tolentindel">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="https://codepen.io/tolentinoel">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
-  </a>
-</p>
+<table align="center" style="background-color: #C8E6C9; border-radius: 20px; padding: 40px; border-collapse: separate; border-spacing: 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+  <tr>
+    <td style="padding-right: 40px; border-right: 2px solid #000000; vertical-align: top;">
+      <div style="display: flex; flex-direction: column; gap: 12px;">
+        <div style="display: flex; align-items: center; gap: 12px; font-size: 14px; font-weight: 500; color: #2C3E50;">
+          <span style="font-weight: bold;">in</span> LINKEDIN.COM/IN/ELLAINET
+        </div>
+        <div style="display: flex; align-items: center; gap: 12px; font-size: 14px; font-weight: 500; color: #2C3E50;">
+          <span style="font-weight: bold;">@</span> TOLENTING.EL@GMAIL.COM
+        </div>
+        <div style="display: flex; align-items: center; gap: 12px; font-size: 14px; font-weight: 500; color: #2C3E50;">
+          <span style="font-weight: bold;">@</span> DEV.TR/TOLENTINDEL
+        </div>
+        <div style="display: flex; align-items: center; gap: 12px; font-size: 14px; font-weight: 500; color: #2C3E50;">
+          <span style="font-weight: bold;">&lt;/&gt;</span> COREPEN.IS/TOLENTINOEL
+        </div>
+      </div>
+    </td>
+    <td style="padding-left: 40px; vertical-align: top; text-align: center;">
+      <div style="margin-bottom: 15px;">
+        <h1 style="font-size: 48px; font-weight: bold; color: #6B46C1; margin: 0; line-height: 1.1; letter-spacing: 2px;">ELLAINE</h1>
+        <h1 style="font-size: 48px; font-weight: bold; color: #6B46C1; margin: 0; line-height: 1.1; letter-spacing: 2px;">TOLENTINO</h1>
+      </div>
+      <div>
+        <p style="font-size: 16px; color: #5A5A5A; margin: 0; font-weight: 300; letter-spacing: 0.5px;">Software Engineer | Design Enthusiast</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <!-- Animated Wave Divider -->
 <div align="center">
