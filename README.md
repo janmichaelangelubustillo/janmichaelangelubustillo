@@ -1,50 +1,142 @@
-<!-- Header with Animated Background -->
+<!-- Header Design -->
 <div align="center" style="
-    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
-    padding: 2rem 1rem;
-    border-radius: 15px;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+    background: linear-gradient(135deg, #4a4a4a 0%, #5a5a5a 100%);
+    padding: 2rem;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
     margin-bottom: 2rem;
     position: relative;
     overflow: hidden;
-    background-image: url('https://i.giphy.com/media/3o7TKsQ8UQ2vqX2Lba/giphy.gif');
-    background-size: cover;
-    background-position: center;
-    background-blend-mode: overlay;
 ">
-  <!-- Overlay for better text visibility -->
-  <div style="
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      background: linear-gradient(135deg, rgba(26, 26, 46, 0.8) 0%, rgba(22, 33, 62, 0.8) 50%, rgba(15, 52, 96, 0.8) 100%);
-      z-index: 0;
-  "></div>
 
-  <div style="position: relative; z-index: 1;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=HELLO+EVERYONE;I+AM;M+I+K+A+E+L" alt="Typing SVG" />
-    
-<!-- Animated Icons -->
-<div style="margin: 20px 0;">
-      <img src="https://media.giphy.com/media/3o7TKsQ8UQ2vqX2Lba/giphy.gif" width="80" style="filter: brightness(0) invert(1);" />
-      <img src="https://media.giphy.com/media/3o7TKsQ8UQ2vqX2Lba/giphy.gif" width="80" style="transform: scaleX(-1); filter: brightness(0) invert(1);" />
+<!-- Geometric Background Shapes -->
+<div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden;
+    z-index: 0;
+">
+    <div style="
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        background: linear-gradient(45deg, #4CAF50, #81C784);
+        border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+        top: 10%;
+        left: 5%;
+        transform: rotate(15deg);
+        opacity: 0.7;
+    "></div>
+    <div style="
+        position: absolute;
+        width: 150px;
+        height: 150px;
+        background: linear-gradient(135deg, #64B5F6, #42A5F5);
+        border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+        bottom: 20%;
+        right: 10%;
+        transform: rotate(-20deg);
+        opacity: 0.7;
+    "></div>
+    <div style="
+        position: absolute;
+        width: 180px;
+        height: 180px;
+        background: linear-gradient(90deg, #9E9E9E, #BDBDBD);
+        border-radius: 40% 60% 60% 40% / 60% 30% 70% 40%;
+        top: 15%;
+        right: 20%;
+        transform: rotate(45deg);
+        opacity: 0.7;
+    "></div>
+    <div style="
+        position: absolute;
+        width: 120px;
+        height: 120px;
+        background: linear-gradient(180deg, #66BB6A, #4CAF50);
+        border-radius: 70% 30% 30% 70% / 70% 70% 30% 30%;
+        bottom: 30%;
+        left: 15%;
+        transform: rotate(-30deg);
+        opacity: 0.7;
+    "></div>
+    <div style="
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        background: linear-gradient(45deg, #5C6BC0, #3F51B5);
+        border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+        top: 50%;
+        right: 5%;
+        transform: rotate(60deg);
+        opacity: 0.7;
+    "></div>
 </div>
 
-<!-- Profile Views Counter -->
-<p>
-      <a href="https://github.com/janmichaelangelubustillo?tab=repositories" style="text-decoration: none;">
-        <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/janmichaelangelubustillo?style=social&label=STARS" />
-      </a>
-</p>
+<!-- Header Content -->
+<div style="
+    background-color: #C8E6C9;
+    border-radius: 20px;
+    padding: 40px 60px;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    max-width: 900px;
+    width: 90%;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    position: relative;
+    z-index: 10;
+">
 
-<!-- Animated Icons Row -->
-<div style="margin: 20px 0;">
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" style="filter: brightness(0) invert(1);" />
-      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" style="filter: brightness(0) invert(1);" />
+<!-- Left Section - Contact Info -->
+<div style="flex: 1;">
+    <div style="display: flex; flex-direction: column; gap: 12px;">
+        <div style="display: flex; align-items: center; gap: 12px; font-size: 14px; font-weight: 500; color: #2C3E50;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="#2C3E50">
+                <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
+            </svg>
+            <span>LINKEDIN.COM/IN/ELLAINET</span>
+        </div>
+        <div style="display: flex; align-items: center; gap: 12px; font-size: 14px; font-weight: 500; color: #2C3E50;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="#2C3E50">
+                <path d="M12 12.713l-11.985-9.713h23.971l-11.986 9.713zm-5.425-1.822l-6.575-5.329v12.501l6.575-7.172zm10.85 0l6.575 7.172v-12.501l-6.575 5.329zm-1.557 1.261l-3.868 3.135-3.868-3.135-8.11 8.848h23.956l-8.11-8.848z"/>
+            </svg>
+            <span>TOLENTING.EL@GMAIL.COM</span>
+        </div>
+        <div style="display: flex; align-items: center; gap: 12px; font-size: 14px; font-weight: 500; color: #2C3E50;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="#2C3E50">
+                <path d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 13h-14v-2h14v2z"/>
+            </svg>
+            <span>DEV.TR/TOLENTINDEL</span>
+        </div>
+        <div style="display: flex; align-items: center; gap: 12px; font-size: 14px; font-weight: 500; color: #2C3E50;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="#2C3E50">
+                <path d="M24 10.935v2.131l-8 4.533v-2.15l4.9-2.733-4.9-2.733v-2.15l8 4.534zm-16 0v2.131l-8 4.533v-2.15l4.9-2.733-4.9-2.733v-2.15l8 4.534z"/>
+            </svg>
+            <span>COREPEN.IS/TOLENTINOEL</span>
+        </div>
+    </div>
 </div>
-  </div>
+
+<!-- Divider -->
+<div style="width: 2px; height: 120px; background-color: #000000;"></div>
+
+<!-- Right Section - Name and Title -->
+<div style="flex: 1; text-align: center;">
+    <div style="margin-bottom: 15px;">
+        <h1 style="font-size: 48px; font-weight: bold; color: #6B46C1; margin: 0; line-height: 1.1; letter-spacing: 2px;">ELLAINE</h1>
+        <h1 style="font-size: 48px; font-weight: bold; color: #6B46C1; margin: 0; line-height: 1.1; letter-spacing: 2px;">TOLENTINO</h1>
+    </div>
+    <div>
+        <p style="font-size: 16px; color: #5A5A5A; margin: 0; font-weight: 300; letter-spacing: 0.5px;">Software Engineer | Design Enthusiast</p>
+    </div>
+</div>
+
+</div>
+
 </div>
 
 <!-- Animated Wave Divider -->
