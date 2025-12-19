@@ -1,40 +1,38 @@
-<!-- Animated Header with Particles Background -->
-<!-- Animated Header with Particles Background -->
+<!-- Animated Header with Particles -->
 <div align="center">
-  <!-- Animated Particles Background -->
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="position: absolute; top: 0; left: 0; width: 100%; z-index: -1;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=HELLO+EVERYONE+I+AM;M+I+K+A+E+L" alt="Typing SVG" />
   
-  <!-- Main Header with Typing Animation -->
-  <div style="position: relative; z-index: 1; padding: 2rem 1.5rem; background: rgba(0,0,0,0.7); border-radius: 15px; margin: 2rem 0; backdrop-filter: blur(5px); max-width: 90%;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=61dafb&center=true&vCenter=true&width=100%&lines=HELLO+WORLD+%F0%9F%91%8B;I'M+MIKAEL;WELCOME+TO+MY+PROFILE!" alt="Typing SVG" />
-    
-<!-- Animated Icons -->
-<div style="margin: 1.5rem 0; display: flex; justify-content: center; gap: 0.8rem; flex-wrap: wrap; padding: 0 1rem;">
-      <img src="https://img.icons8.com/color/48/000000/javascript--v1.gif" alt="JavaScript" title="JavaScript" style="width: 36px; height: 36px;"/>
-      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" style="width: 36px; height: 36px;"/>
-      <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" style="width: 36px; height: 36px;"/>
-      <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python" style="width: 36px; height: 36px;"/>
-      <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" style="width: 36px; height: 36px;"/>
-    </div>
-    
-<!-- Social Badges with Hover Effects -->
-<div style="display: flex; gap: 0.8rem; justify-content: center; flex-wrap: wrap; margin: 1rem 0 0; padding: 0 1rem;">
-      <a href="https://github.com/janmichaelangelubustillo" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 0.2rem;"/>
-      </a>
-      <a href="https://linkedin.com/in/yourprofile" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0.2rem;"/>
-      </a>
-      <a href="mailto:your.janmichaelangelu.bustillo@csucc.edu.ph" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 0.2rem;"/>
-      </a>
-    </div>
+  <!-- Animated Icons -->
+  <div align="center" style="margin: 20px 0;">
+    <img src="https://media.giphy.com/media/3o7TKsQ8UQ2vqX2Lba/giphy.gif" width="80" />
+    <img src="https://media.giphy.com/media/3o7TKsQ8UQ2vqX2Lba/giphy.gif" width="80" style="transform: scaleX(-1);" />
+  </div>
+
+  <!-- Profile Views Counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=janmichaelangelubustillo&style=flat-square&color=blueviolet" alt="Profile Views" />
+    <a href="https://github.com/janmichaelangelubustillo?tab=repositories">
+      <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/janmichaelangelubustillo?style=social" />
+    </a>
+  </p>
+
+  <!-- Animated Icons Row -->
+  <div align="center" style="margin: 20px 0;">
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" />
+    <img src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="50" />
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" />
+    <img src="https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/giphy.gif" width="50" />
   </div>
 </div>
 
 <!-- Animated Divider -->
-<div align="center" style="margin: 2rem 0; padding: 0 1rem;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=100%&lines=✨+Building+amazing+things+with+code+✨;🚀+Passionate+about+creating+impactful+solutions+🚀;💡+Always+learning%2C+always+growing+💡" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=100%&lines=Full+Stack+Developer+%7C+Tech+Enthusiast+%7C+Problem+Solver" alt="Subtitle" />
+</div>
+
+<!-- Animated Wave Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
 ## 🚀 About Me
