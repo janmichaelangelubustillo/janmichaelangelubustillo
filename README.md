@@ -43,21 +43,33 @@ I'm a passionate developer who loves to work on exciting projects and contribute
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go" />
 </div>
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Repositories
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </div>
 
+## 🗂️ Featured Repositories
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=1a1b27&color=9e4c98&line=61dafb&point=f0f0f0" />
+  <!-- Replace these with your actual repository names -->
+  <a href="https://github.com/Ashutosh007Mishra/Ashutosh007Mishra">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashutosh007Mishra&repo=Ashutosh007Mishra&theme=radical" />
+  </a>
+</div>
+
+## 🔄 Recent Activity
+
+<div align="center">
+  <!-- Recent GitHub activity feed -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh007Mishra&theme=react-dark&bg_color=1a1b27&color=9e4c98&line=61dafb&point=f0f0f0&hide_border=true&hide_title=true" />
 </div>
 
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical&date_format=j%20M%5B%20Y%5D&background=1a1b27&border=61dafb&stroke=9e4c98&ring=9e4c98&fire=FF7F50&currStreakNum=F8F8F2&sideNums=F8F8F2&currStreakLabel=9e4c98&sideLabels=F8F8F2&dates=6E7881" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ashutosh007Mishra&theme=radical&date_format=j%20M%5B%20Y%5D&background=1a1b27&border=61dafb&stroke=9e4c98&ring=9e4c98&fire=FF7F50&currStreakNum=F8F8F2&sideNums=F8F8F2&currStreakLabel=9e4c98&sideLabels=F8F8F2&dates=6E7881" alt="GitHub Streak" />
 </div>
 
 ### Programming Languages
@@ -111,7 +123,7 @@ I'm a passionate developer who loves to work on exciting projects and contribute
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Ashutosh007Mishra">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://leetcode.com/yourprofile/">
@@ -120,7 +132,7 @@ I'm a passionate developer who loves to work on exciting projects and contribute
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ashutosh007Mishra&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
 ---
@@ -136,13 +148,13 @@ I'm a passionate developer who loves to work on exciting projects and contribute
 ## 🎮 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashutosh007Mishra&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Ashutosh007Mishra/Ashutosh007Mishra/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## ✨ Random Dev Quote
