@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=HELLO+EVERYONE+I+AM;ASHUTOSH+MISHRA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=HELLO+EVERYONE+I+AM;M+I+K+A+E+L" alt="Typing SVG" />
   
   ![Wave](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet)
   
@@ -54,8 +54,8 @@ I'm a passionate developer who loves to work on exciting projects and contribute
 
 <div align="center">
   <!-- Replace these with your actual repository names -->
-  <a href="https://github.com/Ashutosh007Mishra/Ashutosh007Mishra">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashutosh007Mishra&repo=Ashutosh007Mishra&theme=radical" />
+  <a href="https://github.com/janmichaelangelubustillo">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=janmichaelangelubustillo&repo=janmichaelangelubustillo&theme=radical" />
   </a>
 </div>
 
@@ -63,13 +63,13 @@ I'm a passionate developer who loves to work on exciting projects and contribute
 
 <div align="center">
   <!-- Recent GitHub activity feed -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh007Mishra&theme=react-dark&bg_color=1a1b27&color=9e4c98&line=61dafb&point=f0f0f0&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janmichaelangelubustillo&theme=react-dark&bg_color=1a1b27&color=9e4c98&line=61dafb&point=f0f0f0&hide_border=true&hide_title=true" />
 </div>
 
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashutosh007Mishra&theme=radical&date_format=j%20M%5B%20Y%5D&background=1a1b27&border=61dafb&stroke=9e4c98&ring=9e4c98&fire=FF7F50&currStreakNum=F8F8F2&sideNums=F8F8F2&currStreakLabel=9e4c98&sideLabels=F8F8F2&dates=6E7881" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=janmichaelangelubustillo&theme=radical&date_format=j%20M%5B%20Y%5D&background=1a1b27&border=61dafb&stroke=9e4c98&ring=9e4c98&fire=FF7F50&currStreakNum=F8F8F2&sideNums=F8F8F2&currStreakLabel=9e4c98&sideLabels=F8F8F2&dates=6E7881" alt="GitHub Streak" />
 </div>
 
 ### Programming Languages
@@ -132,7 +132,7 @@ I'm a passionate developer who loves to work on exciting projects and contribute
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashutosh007Mishra&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=janmichaelangelubustillo&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
 ---
@@ -148,13 +148,13 @@ I'm a passionate developer who loves to work on exciting projects and contribute
 ## 🎮 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashutosh007Mishra&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=janmichaelangelubustillo&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh007Mishra/Ashutosh007Mishra/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/janmichaelangelubustillo/janmichaelangelubustillo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## ✨ Random Dev Quote
