@@ -1,14 +1,14 @@
-
+<!-- Header with Animated Background -->
 <div align="center" style="
     background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
     padding: 2rem 1rem;
     border-radius: 15px;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
     margin-bottom: 2rem;
     position: relative;
     overflow: hidden;
 ">
-
+  <!-- Animated Background Elements -->
   <div style="
       position: absolute;
       top: 0;
@@ -16,39 +16,50 @@
       right: 0;
       bottom: 0;
       background: 
-        radial-gradient(circle at 20% 30%, rgba(138, 43, 226, 0.1) 0%, transparent 20%),
-        radial-gradient(circle at 80% 70%, rgba(0, 191, 255, 0.1) 0%, transparent 20%);
+        url('https://i.giphy.com/media/3o7TKsQ8UQ2vqX2Lba/giphy.gif') center/cover no-repeat,
+        radial-gradient(circle at 20% 30%, rgba(138, 43, 226, 0.15) 0%, transparent 20%),
+        radial-gradient(circle at 80% 70%, rgba(0, 191, 255, 0.15) 0%, transparent 20%);
       z-index: 0;
+      opacity: 0.4;
+      animation: gradientBG 15s ease infinite;
   "></div>
+  
+  <style>
+    @keyframes gradientBG {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+  </style>
 
   <div style="position: relative; z-index: 1;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=HELLO+EVERYONE+I+AM;M+I+K+A+E+L" alt="Typing SVG" />
     
-    
-  <div style="margin: 20px 0;">
+<!-- Animated Icons -->
+<div style="margin: 20px 0;">
       <img src="https://media.giphy.com/media/3o7TKsQ8UQ2vqX2Lba/giphy.gif" width="80" style="filter: brightness(0) invert(1);" />
       <img src="https://media.giphy.com/media/3o7TKsQ8UQ2vqX2Lba/giphy.gif" width="80" style="transform: scaleX(-1); filter: brightness(0) invert(1);" />
-    </div>
+</div>
 
-    
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=janmichaelangelubustillo&style=flat-square&color=8a2be2&label=PROFILE+VIEWS" alt="Profile Views" />
+<!-- Profile Views Counter -->
+<p>
+      <img src="https://komarev.com/ghpvc/?username=janmichaelangelubustillo&style=flat-square&color=8a2be2&label=PROFILE+VIEWS" alt="Profile Views" />
       <a href="https://github.com/janmichaelangelubustillo?tab=repositories" style="text-decoration: none;">
         <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/janmichaelangelubustillo?style=social&label=STARS" />
       </a>
-    </p>
+</p>
 
-    
-  <div style="margin: 20px 0;">
+<!-- Animated Icons Row -->
+<div style="margin: 20px 0;">
       <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" style="filter: brightness(0) invert(1);" />
       <img src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="50" style="filter: brightness(0) invert(1);" />
       <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" style="filter: brightness(0) invert(1);" />
       <img src="https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/giphy.gif" width="50" style="filter: brightness(0) invert(1);" />
-    </div>
+</div>
   </div>
 </div>
 
-
+<!-- Animated Wave Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
