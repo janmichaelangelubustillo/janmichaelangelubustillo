@@ -1,5 +1,83 @@
 <!-- Header Design -->
-<table align="center" style="background-color: #E8F5E9; border-radius: 20px; padding: 40px; border-collapse: separate; border-spacing: 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+<div align="center" style="
+    background: linear-gradient(135deg, #4a4a4a 0%, #5a5a5a 100%);
+    padding: 2rem;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+    margin-bottom: 2rem;
+    position: relative;
+    overflow: hidden;
+">
+
+<!-- Geometric Background Shapes -->
+<div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden;
+    z-index: 0;
+">
+    <div style="
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        background: linear-gradient(45deg, #4CAF50, #81C784);
+        border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+        top: 10%;
+        left: 5%;
+        transform: rotate(15deg);
+        opacity: 0.7;
+    "></div>
+    <div style="
+        position: absolute;
+        width: 150px;
+        height: 150px;
+        background: linear-gradient(135deg, #64B5F6, #42A5F5);
+        border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+        bottom: 20%;
+        right: 10%;
+        transform: rotate(-20deg);
+        opacity: 0.7;
+    "></div>
+    <div style="
+        position: absolute;
+        width: 180px;
+        height: 180px;
+        background: linear-gradient(90deg, #9E9E9E, #BDBDBD);
+        border-radius: 40% 60% 60% 40% / 60% 30% 70% 40%;
+        top: 15%;
+        right: 20%;
+        transform: rotate(45deg);
+        opacity: 0.7;
+    "></div>
+    <div style="
+        position: absolute;
+        width: 120px;
+        height: 120px;
+        background: linear-gradient(180deg, #66BB6A, #4CAF50);
+        border-radius: 70% 30% 30% 70% / 70% 70% 30% 30%;
+        bottom: 30%;
+        left: 15%;
+        transform: rotate(-30deg);
+        opacity: 0.7;
+    "></div>
+    <div style="
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        background: linear-gradient(45deg, #5C6BC0, #3F51B5);
+        border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+        top: 50%;
+        right: 5%;
+        transform: rotate(60deg);
+        opacity: 0.7;
+    "></div>
+</div>
+
+<!-- Header Content -->
+<table style="background-color: #E8F5E9; border-radius: 20px; padding: 40px; border-collapse: separate; border-spacing: 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2); position: relative; z-index: 10;">
   <tr>
     <td style="padding-right: 40px; border-right: 2px solid #000000; vertical-align: top;">
       <div style="display: flex; flex-direction: column; gap: 12px;">
@@ -33,6 +111,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 <!-- Animated Wave Divider -->
 <div align="center">
