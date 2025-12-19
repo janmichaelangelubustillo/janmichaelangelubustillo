@@ -24,7 +24,7 @@
   "></div>
 
   <div style="position: relative; z-index: 1;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=HELLO+EVERYONE+I+AM;M+I+K+A+E+L" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=HELLO+EVERYONE;I+AM;M+I+K+A+E+L" alt="Typing SVG" />
     
 <!-- Animated Icons -->
 <div style="margin: 20px 0;">
@@ -34,7 +34,6 @@
 
 <!-- Profile Views Counter -->
 <p>
-      <img src="https://komarev.com/ghpvc/?username=janmichaelangelubustillo&style=flat-square&color=8a2be2&label=PROFILE+VIEWS" alt="Profile Views" />
       <a href="https://github.com/janmichaelangelubustillo?tab=repositories" style="text-decoration: none;">
         <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/janmichaelangelubustillo?style=social&label=STARS" />
       </a>
@@ -43,9 +42,7 @@
 <!-- Animated Icons Row -->
 <div style="margin: 20px 0;">
       <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" style="filter: brightness(0) invert(1);" />
-      <img src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="50" style="filter: brightness(0) invert(1);" />
       <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" style="filter: brightness(0) invert(1);" />
-      <img src="https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/giphy.gif" width="50" style="filter: brightness(0) invert(1);" />
 </div>
   </div>
 </div>
