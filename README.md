@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=61dafb&center=true&vCenter=true&width=600&lines=HELLO+WORLD+%F0%9F%91%8B;I'M+MIKAEL;FULL+STACK+DEVELOPER;WELCOME+TO+MY+PROFILE!" alt="Typing SVG" />
     
     <!-- Animated Icons -->
-    <div style="margin: 1.5rem 0; display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
+  <div style="margin: 1.5rem 0; display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
       <img src="https://img.icons8.com/color/48/000000/javascript--v1.gif" alt="JavaScript" title="JavaScript"/>
       <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
       <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js"/>
@@ -17,18 +17,17 @@
     </div>
     
     <!-- Social Badges with Hover Effects -->
-    <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-top: 1rem;">
+  <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-top: 1rem;">
       <a href="https://github.com/janmichaelangelubustillo" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
       <a href="https://linkedin.com/in/yourprofile" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
-      <a href="mailto:your.email@example.com">
+      <a href="mailto:your.janmichaelangelu.bustillo@csucc.edu.ph">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
       </a>
     </div>
-  </div>
 </div>
 
 <!-- Animated Divider -->
