@@ -77,27 +77,29 @@ I'm a passionate developer who loves to work on exciting projects and contribute
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-### Programming Languages
+## Programming Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,python,java" />
 </div>
 
-### Frontend Development
+## Frontend Development
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css" />
 </div>
 
-### Backend & Databases
+## Backend & Databases
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mysql,workbench" />
 </div>
 
-### DevOps & Tools
+## DevOps & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 ## � Let's Connect & Have Fun!
 
@@ -123,7 +125,9 @@ I'm a passionate developer who loves to work on exciting projects and contribute
   <img src="https://komarev.com/ghpvc/?username=janmichaelangelubustillo&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 ## 🎧 Spotify Playing
 
@@ -133,16 +137,33 @@ I'm a passionate developer who loves to work on exciting projects and contribute
   </a>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
 ## 🎮 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=janmichaelangelubustillo&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
 ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/janmichaelangelubustillo/janmichaelangelubustillo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
 ## ✨ Random Dev Quote
