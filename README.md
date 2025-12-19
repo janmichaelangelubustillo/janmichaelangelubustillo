@@ -26,9 +26,7 @@
 </div>
 
 <!-- Animated Divider -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=100%&lines=Full+Stack+Developer+%7C+Tech+Enthusiast+%7C+Problem+Solver" alt="Subtitle" />
-</div>
+
 
 <!-- Animated Wave Divider -->
 <div align="center">
