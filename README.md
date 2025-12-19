@@ -1,4 +1,4 @@
-<!-- Header with Animated Background -->
+    <!-- Header with Animated Background -->
 <div align="center" style="
     background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
     padding: 2rem 1rem;
@@ -7,29 +7,21 @@
     margin-bottom: 2rem;
     position: relative;
     overflow: hidden;
+    background-image: url('https://i.giphy.com/media/3o7TKsQ8UQ2vqX2Lba/giphy.gif');
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
 ">
-  <!-- Animated Background Elements -->
+  <!-- Overlay for better text visibility -->
   <div style="
       position: absolute;
       top: 0;
       left: 0;
       right: 0;
       bottom: 0;
-      background: 
-        url('https://i.giphy.com/media/3o7TKsQ8UQ2vqX2Lba/giphy.gif') center/cover no-repeat,
-        radial-gradient(circle at 20% 30%, rgba(138, 43, 226, 0.15) 0%, transparent 20%),
-        radial-gradient(circle at 80% 70%, rgba(0, 191, 255, 0.15) 0%, transparent 20%);
+      background: linear-gradient(135deg, rgba(26, 26, 46, 0.8) 0%, rgba(22, 33, 62, 0.8) 50%, rgba(15, 52, 96, 0.8) 100%);
       z-index: 0;
-      opacity: 0.4;
-      animation: gradientBG 15s ease infinite;
   "></div>
-    <style>
-    @keyframes gradientBG {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-    </style>
 
   <div style="position: relative; z-index: 1;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=HELLO+EVERYONE+I+AM;M+I+K+A+E+L" alt="Typing SVG" />
