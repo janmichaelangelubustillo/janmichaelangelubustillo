@@ -1,6 +1,6 @@
 <!-- Header Design -->
 <p align="center">
-  <img src="github-header-banner.png" alt="Header Banner" style="width: 100%; max-width: 1000px; border-radius: 10px;"/>
+  <img src="https://via.placeholder.com/1000x200/1a1a1a/ffffff?text=MIKAEL+%7C+Information+Technology+%7C+Student" alt="Header Banner" style="width: 100%; max-width: 1000px; border-radius: 10px;"/>
 </p>
 
 <!-- Animated Wave Divider -->
