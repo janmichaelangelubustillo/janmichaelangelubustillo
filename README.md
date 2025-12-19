@@ -80,29 +80,20 @@
 <table style="background-color: #E8F5E9; border-radius: 20px; padding: 40px; border-collapse: separate; border-spacing: 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2); position: relative; z-index: 10;">
   <tr>
     <td style="padding-right: 40px; border-right: 2px solid #000000; vertical-align: top;">
-      <div style="display: flex; flex-direction: column; gap: 12px;">
-        <div style="display: flex; align-items: center; gap: 12px; font-size: 14px; font-weight: 500; color: #2C3E50;">
-          <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" width="20" height="20" alt="LinkedIn"/>
-          LINKEDIN.COM/IN/ELLAINET
-        </div>
+      <div style="display: flex; flex-direction: column; gap: 12px;"
         <div style="display: flex; align-items: center; gap: 12px; font-size: 14px; font-weight: 500; color: #2C3E50;">
           <img src="https://cdn-icons-png.flaticon.com/24/561/561127.png" width="20" height="20" alt="Email"/>
-          TOLENTING.EL@GMAIL.COM
+          janmichaelangelu.bustillo@csucc.edu.ph
         </div>
         <div style="display: flex; align-items: center; gap: 12px; font-size: 14px; font-weight: 500; color: #2C3E50;">
           <img src="https://cdn-icons-png.flaticon.com/24/25/25657.png" width="20" height="20" alt="Dev.to"/>
-          DEV.TR/TOLENTINDEL
-        </div>
-        <div style="display: flex; align-items: center; gap: 12px; font-size: 14px; font-weight: 500; color: #2C3E50;">
-          <img src="https://cdn-icons-png.flaticon.com/24/825/825362.png" width="20" height="20" alt="CodePen"/>
-          COREPEN.IS/TOLENTINOEL
+          janmichaelangelubustillo/janmichaelangelubustillo
         </div>
       </div>
     </td>
     <td style="padding-left: 40px; vertical-align: top; text-align: center;">
       <div style="margin-bottom: 15px;">
-        <h1 style="font-size: 48px; font-weight: bold; color: #6B46C1; margin: 0; line-height: 1.1; letter-spacing: 2px;">ELLAINE</h1>
-        <h1 style="font-size: 48px; font-weight: bold; color: #6B46C1; margin: 0; line-height: 1.1; letter-spacing: 2px;">TOLENTINO</h1>
+        <h1 style="font-size: 48px; font-weight: bold; color: #6B46C1; margin: 0; line-height: 1.1; letter-spacing: 2px;">MIKAEL</h1>
         <hr style="border: 1px solid #000000; width: 80%; margin: 10px auto;">
       </div>
       <div>
