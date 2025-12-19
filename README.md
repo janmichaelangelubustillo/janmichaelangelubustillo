@@ -1,7 +1,4 @@
-<!-- Header Design -->
-<p align="center">
-  <img src="github-header-banner.png" alt="Header Banner" style="width: 100%; max-width: 1000px; border-radius: 10px;"/>
-</p>
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/56e0401a-1f35-4f74-9138-76396f41d199" />
 
 <!-- Animated Wave Divider -->
 <div align="center">
