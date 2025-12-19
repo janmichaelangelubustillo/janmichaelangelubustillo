@@ -52,13 +52,6 @@ I'm a passionate developer who loves to work on exciting projects and contribute
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go" />
 </div>
 
-## 📊 GitHub Stats & Repositories
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-</div>
-
 ## 🗂️ Featured Repositories
 
 <div align="center">
@@ -75,47 +68,24 @@ I'm a passionate developer who loves to work on exciting projects and contribute
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=janmichaelangelubustillo&theme=react-dark&bg_color=1a1b27&color=9e4c98&line=61dafb&point=f0f0f0&hide_border=true&hide_title=true" />
 </div>
 
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=janmichaelangelubustillo&theme=radical&date_format=j%20M%5B%20Y%5D&background=1a1b27&border=61dafb&stroke=9e4c98&ring=9e4c98&fire=FF7F50&currStreakNum=F8F8F2&sideNums=F8F8F2&currStreakLabel=9e4c98&sideLabels=F8F8F2&dates=6E7881" alt="GitHub Streak" />
-</div>
-
 ### Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go" />
+  <img src="https://skillicons.dev/icons?i=js,python,java" />
 </div>
 
 ### Frontend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </div>
 
 ### Backend & Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,workbench" />
 </div>
 
 ### DevOps & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </div>
 
 ---
