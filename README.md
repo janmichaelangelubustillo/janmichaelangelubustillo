@@ -91,13 +91,12 @@
         </div>
       </div>
     </td>
-    <td style="padding-left: 40px; vertical-align: top; text-align: center;">
       <div style="margin-bottom: 15px;">
         <h1 style="font-size: 48px; font-weight: bold; color: #6B46C1; margin: 0; line-height: 1.1; letter-spacing: 2px;">MIKAEL</h1>
         <hr style="border: 1px solid #000000; width: 80%; margin: 10px auto;">
       </div>
       <div>
-        <p style="font-size: 16px; color: #5A5A5A; margin: 0; font-weight: 300; letter-spacing: 0.5px;">Software Engineer | Design Enthusiast</p>
+        <p style="font-size: 16px; color: #5A5A5A; margin: 0; font-weight: 300; letter-spacing: 0.5px;">Information Technology | Student</p>
       </div>
     </td>
   </tr>
