@@ -49,6 +49,10 @@ I'm a passionate developer who loves to work on exciting projects and contribute
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go" />
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
 ## 🗂️ Featured Repositories
 
 <div align="center">
@@ -58,11 +62,19 @@ I'm a passionate developer who loves to work on exciting projects and contribute
   </a>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
 ## 🔄 Recent Activity
 
 <div align="center">
   <!-- Recent GitHub activity feed -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=janmichaelangelubustillo&theme=react-dark&bg_color=1a1b27&color=9e4c98&line=61dafb&point=f0f0f0&hide_border=true&hide_title=true" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
 ### Programming Languages
