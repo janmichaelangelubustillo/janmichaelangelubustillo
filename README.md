@@ -6,7 +6,7 @@
   
   <!-- Main Header with Typing Animation -->
   <div style="position: relative; z-index: 1; padding: 2rem 1.5rem; background: rgba(0,0,0,0.7); border-radius: 15px; margin: 2rem 0; backdrop-filter: blur(5px); max-width: 90%;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=61dafb&center=true&vCenter=true&width=100%&lines=HELLO+WORLD+%F0%9F%91%8B;I'M+MIKAEL;FULL+STACK+DEVELOPER;WELCOME+TO+MY+PROFILE!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=61dafb&center=true&vCenter=true&width=100%&lines=HELLO+WORLD+%F0%9F%91%8B;I'M+MIKAEL;WELCOME+TO+MY+PROFILE!" alt="Typing SVG" />
     
 <!-- Animated Icons -->
 <div style="margin: 1.5rem 0; display: flex; justify-content: center; gap: 0.8rem; flex-wrap: wrap; padding: 0 1rem;">
