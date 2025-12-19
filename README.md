@@ -1,32 +1,42 @@
+<!-- Animated Header with Particles Background -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=HELLO+EVERYONE+I+AM;M+I+K+A+E+L" alt="Typing SVG" />
+  <!-- Animated Particles Background -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="position: absolute; top: 0; left: 0; width: 100%; z-index: -1;" />
   
-  ![Wave](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet)
-  
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  <!-- Main Header with Typing Animation -->
+  <div style="position: relative; z-index: 1; padding: 2rem 0; background: rgba(0,0,0,0.7); border-radius: 15px; margin: 2rem 0; backdrop-filter: blur(5px);">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=61dafb&center=true&vCenter=true&width=600&lines=HELLO+WORLD+%F0%9F%91%8B;I'M+MIKAEL;FULL+STACK+DEVELOPER;WELCOME+TO+MY+PROFILE!" alt="Typing SVG" />
+    
+    <!-- Animated Icons -->
+    <div style="margin: 1.5rem 0; display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
+      <img src="https://img.icons8.com/color/48/000000/javascript--v1.gif" alt="JavaScript" title="JavaScript"/>
+      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
+      <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js"/>
+      <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python"/>
+      <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
+    </div>
+    
+    <!-- Social Badges with Hover Effects -->
+    <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-top: 1rem;">
+      <a href="https://github.com/janmichaelangelubustillo" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+      <a href="https://linkedin.com/in/yourprofile" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="mailto:your.email@example.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+    </div>
+  </div>
 </div>
 
-<div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif" width="600" height="auto" alt="Example"/>
+<!-- Animated Divider -->
+<div align="center" style="margin: 2rem 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=100%&lines=✨+Building+amazing+things+with+code+✨;🚀+Passionate+about+creating+impactful+solutions+🚀;💡+Always+learning%2C+always+growing+💡" alt="Typing SVG" />
 </div>
-
----
 
 ## 🚀 About Me
-
-<div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letter-bird.gif" width="25">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letter-o.gif" width="25">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letter-n.gif" width="25">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letter-j.gif" width="25">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letter-o.gif" width="25">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letter-u.gif" width="25">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letter-r.gif" width="25">
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGp1ZzZqb3V6b2R2eWJ2ZzJ5N2R4YzV1c3RqZ2NwZ3JqZ3JwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</div>
 I'm a passionate developer who loves to work on exciting projects and contribute to open source. I enjoy learning new technologies and sharing my knowledge with the community.
 
 ---
