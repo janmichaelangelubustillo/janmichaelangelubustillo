@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-## 🚀 About Me
+## dYs? About Me
 I'm a passionate developer who loves to work on exciting projects and contribute to open source. I enjoy learning new technologies and sharing my knowledge with the community.
 
 <div align="center">
@@ -17,7 +17,7 @@ I'm a passionate developer who loves to work on exciting projects and contribute
 
 
 
-## 🗂️ Featured Repositories
+## dY-,ï,? Featured Repositories
 
 <div align="center">
   <!-- Replace these with your actual repository names -->
@@ -30,7 +30,7 @@ I'm a passionate developer who loves to work on exciting projects and contribute
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-## 🔄 Recent Activity
+## dY", Recent Activity
 
 <div align="center">
   <!-- Recent GitHub activity feed -->
@@ -65,7 +65,7 @@ I'm a passionate developer who loves to work on exciting projects and contribute
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-## � Let's Connect & Have Fun!
+## ï¿½ Let's Connect & Have Fun!
 
 <div align="center">
   <a href="https://linkedin.com/in/yourprofile">
@@ -89,7 +89,7 @@ I'm a passionate developer who loves to work on exciting projects and contribute
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-## 🎧 Spotify Playing
+## dYZ Spotify Playing
 
 <div align="center">
   <a href="https://open.spotify.com/user/yourspotifyid">
@@ -101,11 +101,11 @@ I'm a passionate developer who loves to work on exciting projects and contribute
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-## 🚀 Current Project: Guppy Classifier (Flutter App)
+## dYs? Current Project: Guppy Classifier (Flutter App)
 
 <p align="justify">
 Guppy Classifier is a mobile application designed to identify and evaluate guppy fish classes using image-based classification. The app focuses on providing accurate and reliable classification results through an easy-to-use scanning system, making it useful for learning, testing, and analysis.<br/><br/>
-The application offers two classification methods. The first is Camera Classification, where users capture a photo in real time to perform accuracy testing. The second is Gallery Classification, which allows users to select an existing image from their device’s gallery for classification and accuracy evaluation.
+The application offers two classification methods. The first is Camera Classification, where users capture a photo in real time to perform accuracy testing. The second is Gallery Classification, which allows users to select an existing image from their deviceâ?Ts gallery for classification and accuracy evaluation.
 <br/><br/>
 To support tracking and review, Guppy Classifier includes a Classification History feature that records all previous classification results. Users can view past tests and apply filters based on the image source (camera or gallery) as well as the type of class, making it easier to analyze results efficiently.
 </p>
@@ -114,7 +114,7 @@ To support tracking and review, Guppy Classifier includes a Classification Histo
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-### 🧬 Guppy Classes Overview
+### dY¬ Guppy Classes Overview
 
 Below is a quick overview of the Guppy classes that Guppy Classifier can recognize, with a short description and a sample image for each class.
 
@@ -151,7 +151,7 @@ Below is a quick overview of the Guppy classes that Guppy Classifier can recogni
   </tr>
   <tr>
     <td><strong>Endler's</strong></td>
-    <td>Endler’s guppy is smaller and slimmer than regular guppies, with vibrant colors and unique patterns. Males are especially colorful, displaying neon shades of green, orange, and black. This variety is known for its active behavior and adaptability.</td>
+    <td>Endlerâ?Ts guppy is smaller and slimmer than regular guppies, with vibrant colors and unique patterns. Males are especially colorful, displaying neon shades of green, orange, and black. This variety is known for its active behavior and adaptability.</td>
     <td align="center"><img src="./Endler's.jfif" alt="Endler's" width="90"/></td>
   </tr>
   <tr>
@@ -161,7 +161,7 @@ Below is a quick overview of the Guppy classes that Guppy Classifier can recogni
   </tr>
   <tr>
     <td><strong>Panda</strong></td>
-    <td>The Panda guppy has a white or silver body with contrasting black patches, particularly around the head, tail, or midsection. The color distribution resembles a panda’s markings. This variety is admired for its balanced and eye-catching contrast.</td>
+    <td>The Panda guppy has a white or silver body with contrasting black patches, particularly around the head, tail, or midsection. The color distribution resembles a pandaâ?Ts markings. This variety is admired for its balanced and eye-catching contrast.</td>
     <td align="center"><img src="./Panda.jfif" alt="panda" width="90"/></td>
   </tr>
   <tr>
@@ -180,7 +180,7 @@ Below is a quick overview of the Guppy classes that Guppy Classifier can recogni
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-### 🏠 Home Page
+### dY?  Home Page
 
 <table>
   <tr>
@@ -201,7 +201,7 @@ Below is a quick overview of the Guppy classes that Guppy Classifier can recogni
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-### Supported Guppy Classes 
+### Supported Guppy Classes\n\n<table>\n  <tr>\n    <td> 
 
 <p align="justify">
 Below are sample screens and detailed visual references showing the Guppies that Guppy Classifier can classify. The app screenshots display how each guppy class appears in the application interface, while the detailed images showcase the distinctive characteristics, color patterns, and physical features that help identify each guppy variety. These references help users understand the visual differences between classes and improve their ability to recognize guppies in real-world scenarios.
@@ -238,13 +238,13 @@ Below are sample screens and detailed visual references showing the Guppies that
   <img src="./Class_info_4.jpg" alt="Class Information 4" width="200"/>
 </p>
 
-These screens and images show the guppies included in the model, helping users know which guppies they can scan with the app and understand their distinguishing features.
+    </td>\n  </tr>\n</table>\n\nThese screens and images show the guppies included in the model, helping users know which guppies they can scan with the app and understand their distinguishing features.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-### 📷 Capture or Upload Images & ✅ Scan Result
+### dY"· Capture or Upload Images & âo. Scan Result
 
 <table>
   <tr>
@@ -266,7 +266,7 @@ These screens and images show the guppies included in the model, helping users k
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-### 📈 Analytics, Detections per Class & 🕒 Scan History
+### dY"^ Analytics Charts & dY' Scan History
 
 <table>
   <tr>
@@ -291,7 +291,7 @@ These screens and images show the guppies included in the model, helping users k
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-### 🚀 Key Features Summary
+### dYs? Key Features Summary
 <table>
   <tr>
     <th align="left">Feature</th>
@@ -326,3 +326,10 @@ These screens and images show the guppies included in the model, helping users k
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
+
+
+
+
+
+
+
