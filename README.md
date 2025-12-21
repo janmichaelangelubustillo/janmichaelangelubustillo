@@ -1,4 +1,4 @@
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/56e0401a-1f35-4f74-9138-76396f41d199" />
+﻿<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/56e0401a-1f35-4f74-9138-76396f41d199" />
 
 <!-- Animated Wave Divider -->
 <div align="center">
@@ -201,9 +201,15 @@ Below is a quick overview of the Guppy classes that Guppy Classifier can recogni
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-### Supported Guppy Classes
+### Supported Guppy Classes 
 
-Below are sample screens showing the Guppies that Guppy Classifier can classify:
+<p align="justify">
+Below are sample screens and detailed visual references showing the Guppies that Guppy Classifier can classify. The app screenshots display how each guppy class appears in the application interface, while the detailed images showcase the distinctive characteristics, color patterns, and physical features that help identify each guppy variety. These references help users understand the visual differences between classes and improve their ability to recognize guppies in real-world scenarios.
+</p>
+
+<p align="center">
+  <strong>App Screenshots</strong>
+</p>
 
 <p align="center">
   <img src="./full red class.jpg" alt="Full Red" width="165"/>
@@ -221,7 +227,18 @@ Below are sample screens showing the Guppies that Guppy Classifier can classify:
   <img src="./red dragon class.jpg" alt="Red Dragon" width="165"/>
 </p>
 
-These screens show the guppies included in the model, helping users know which guppies they can scan with the app.
+<p align="center">
+  <strong>Detailed Class Information</strong>
+</p>
+
+<p align="center">
+  <img src="./Class_info.jpg" alt="Class Information 1" width="200"/>
+  <img src="./Class_info_2 (1).jpg" alt="Class Information 2" width="200"/>
+  <img src="./Class_info_3.jpg" alt="Class Information 3" width="200"/>
+  <img src="./Class_info_4.jpg" alt="Class Information 4" width="200"/>
+</p>
+
+These screens and images show the guppies included in the model, helping users know which guppies they can scan with the app and understand their distinguishing features.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -249,7 +266,7 @@ These screens show the guppies included in the model, helping users know which g
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-### 📈 Analytics, Detections per Class & 🕒 Scan History
+### 📈 Analytics Charts & 🕒 Scan History
 
 <table>
   <tr>
@@ -262,9 +279,6 @@ These screens show the guppies included in the model, helping users know which g
     <td align="center">
       <strong>Scan History</strong><br/>
       <img src="./History.jpg" alt="History Page" width="200"/><br/>
-      <img src="./History_2.jpg" alt="History Page" width="200"/><br/>
-      <img src="./History_3.jpg" alt="History Page" width="200"/><br/>
-      <img src="./History_4.jpg" alt="History Page" width="200"/><br/>
       <sub>The History page keeps a record of past scans, including the detected class, accuracy and sources. This lets users review previous results and track their usage of Guppy Classifier.</sub>
     </td>
   </tr>
