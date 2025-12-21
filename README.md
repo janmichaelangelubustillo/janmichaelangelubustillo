@@ -201,7 +201,7 @@ Below is a quick overview of the Guppy classes that Guppy Classifier can recogni
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-### Supported Guppy Classes\n\n<table>\n  <tr>\n    <td> 
+### Supported Guppy Classes\r\n\r\n<table>\r\n  <tr>\r\n    <td> 
 
 <p align="justify">
 Below are sample screens and detailed visual references showing the Guppies that Guppy Classifier can classify. The app screenshots display how each guppy class appears in the application interface, while the detailed images showcase the distinctive characteristics, color patterns, and physical features that help identify each guppy variety. These references help users understand the visual differences between classes and improve their ability to recognize guppies in real-world scenarios.
@@ -238,7 +238,7 @@ Below are sample screens and detailed visual references showing the Guppies that
   <img src="./Class_info_4.jpg" alt="Class Information 4" width="200"/>
 </p>
 
-    </td>\n  </tr>\n</table>\n\nThese screens and images show the guppies included in the model, helping users know which guppies they can scan with the app and understand their distinguishing features.
+    </td>  </tr></table>These screens and images show the guppies included in the model, helping users know which guppies they can scan with the app and understand their distinguishing features.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -326,10 +326,6 @@ Below are sample screens and detailed visual references showing the Guppies that
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
-
-
-
-
 
 
 
