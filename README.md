@@ -9,7 +9,7 @@
 </div>
 
 ## 🚀 About Me
-I'm a passionate developer who loves to work on exciting projects and contribute to open source. I enjoy learning new technologies and sharing my knowledge with the community.
+As a third-year IT student, I enjoy working on challenging projects. I was a student at the CARAGA STATE UNIVERSITY CABADBARAN CAMPUS, and I enjoy learning new things about being an IT student.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -187,7 +187,7 @@ Below is a quick overview of the Guppy classes that Guppy Classifier can recogni
     <td align="center">
       <strong>Home Page</strong><br/>
       <img src="./Home.jpg" alt="Main Page" width="200"/><br/>
-      <sub>The Main Page is the starting point of the app. From here, users can navigate to the dictionary, open the camera or upload screen, and access other features of Guppy Classifier.</sub>
+      <sub>The Main Page is the starting point of the app. From here, users can navigate to the class information, open the camera or upload screen, and access other features of Guppy Classifier.</sub>
     </td>
     <td align="center">
       <strong>Status</strong><br/>
@@ -274,7 +274,7 @@ These screens and images show the guppies included in the model, helping users k
       <strong>Analytics Charts</strong><br/>
       <img src="./Charts.jpg" alt="Analytics Charts" width="200"/>
       <img src="./Charts_2.jpg" alt="Analytics Charts" width="200"/><br/>
-      <sub>The Analytics screen summarizes how the app is being used, including how many detections each guppy class has. The Detections per Class chart visualizes how often each type of guppies has been scanned.</sub>
+      <sub>The Analytics screen summarizes how the app is being used, including how many detections each guppy class has.</sub>
     </td>
     <td align="center">
       <strong>Scan History</strong><br/>
