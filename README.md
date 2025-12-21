@@ -201,9 +201,15 @@ Below is a quick overview of the Guppy classes that Guppy Classifier can recogni
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-### Supported Guppy Classes
+### Supported Guppy Classes 
 
-Below are sample screens showing the Guppies that Guppy Classifier can classify:
+<p align="justify">
+Below are sample screens and detailed visual references showing the Guppies that Guppy Classifier can classify. The app screenshots display how each guppy class appears in the application interface, while the detailed images showcase the distinctive characteristics, color patterns, and physical features that help identify each guppy variety. These references help users understand the visual differences between classes and improve their ability to recognize guppies in real-world scenarios.
+</p>
+
+<p align="center">
+  <strong>App Screenshots</strong>
+</p>
 
 <p align="center">
   <img src="./full red class.jpg" alt="Full Red" width="165"/>
@@ -221,9 +227,9 @@ Below are sample screens showing the Guppies that Guppy Classifier can classify:
   <img src="./red dragon class.jpg" alt="Red Dragon" width="165"/>
 </p>
 
-These screens show the guppies included in the model, helping users know which guppies they can scan with the app.
-
-### Class Information
+<p align="center">
+  <strong>Detailed Class Information</strong>
+</p>
 
 <p align="center">
   <img src="./Class_info.jpg" alt="Class Information 1" width="200"/>
@@ -231,6 +237,8 @@ These screens show the guppies included in the model, helping users know which g
   <img src="./Class_info_3.jpg" alt="Class Information 3" width="200"/>
   <img src="./Class_info_4.jpg" alt="Class Information 4" width="200"/>
 </p>
+
+These screens and images show the guppies included in the model, helping users know which guppies they can scan with the app and understand their distinguishing features.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
