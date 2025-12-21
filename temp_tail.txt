@@ -1,0 +1,88 @@
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+### 📷 Capture or Upload Images & ✅ Scan Result
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Capture or Upload Images</strong><br/>
+      <img src="./Camera.jpg" alt="Camera Page" width="200"/>
+      <img src="./Gallery.jpg" alt="Upload Page" width="200"/><br/>
+      <sub>Users can either take a new photo using the camera or upload an existing image from their device. These images are then sent to the model for guppy classification.</sub>
+    </td>
+    <td align="center">
+      <strong>Scan Result</strong><br/>
+      <img src="./pl white class.jpg" alt="Result Page" width="200"/><br/>
+      <sub>After a scan, the Result screen shows the predicted guppy class along with confidence percentages, so users can see how likely each class is.</sub>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+### 📈 Analytics Charts & 🕒 Scan History
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Analytics Charts</strong><br/>
+      <img src="./Charts.jpg" alt="Analytics Charts" width="200"/>
+      <img src="./Charts_2.jpg" alt="Analytics Charts" width="200"/><br/>
+      <sub>The Analytics screen summarizes how the app is being used, including how many detections each guppy class has. The Detections per Class chart visualizes how often each type of guppies has been scanned.</sub>
+    </td>
+    <td align="center">
+      <strong>Scan History</strong><br/>
+      <img src="./History.jpg" alt="History Page" width="200"/>
+      <img src="./History_2.jpg" alt="History Page" width="200"/>
+      <img src="./History_3.jpg" alt="History Page" width="200"/>
+      <img src="./History_4.jpg" alt="History Page" width="200"/><br/>
+      <sub>The History page keeps a record of past scans, including the detected class, accuracy and sources. This lets users review previous results and track their usage of Guppy Classifier.</sub>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+### 🚀 Key Features Summary
+<table>
+  <tr>
+    <th align="left">Feature</th>
+    <th align="left">Description</th>
+  </tr>
+  <tr>
+    <td><strong>Image Capture & Upload</strong></td>
+    <td>Users can either take a new picture of a guppy using the camera or choose an existing photo from their gallery as input for classification.</td>
+  </tr>
+  <tr>
+    <td><strong>Guppy Class Recognition</strong></td>
+    <td>The app runs an image classification model to predict which guppy class the sample belongs to, based on the supported species in the built-in class-info.</td>
+  </tr>
+  <tr>
+    <td><strong>Confidence-Based Results</strong></td>
+    <td>Each scan displays confidence values for the detected class, helping users understand how certain the model is about its prediction.</td>
+  </tr>
+  <tr>
+    <td><strong>Interactive Class Information</strong></td>
+    <td>A reference section where users can browse the available guppy classes, view their images, and read short descriptions before or after scanning.</td>
+  </tr>
+  <tr>
+    <td><strong>Usage Analytics</strong></td>
+    <td>Analytics charts provide an overview of which guppies are scanned the most and how the model has been used over time.</td>
+  </tr>
+  <tr>
+    <td><strong>Scan History</strong></td>
+    <td>The app keeps a record of previous scans, showing the detected class, accuracy, and sources so that users can revisit earlier results.</td>
+  </tr>
+  </table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
