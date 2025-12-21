@@ -185,13 +185,13 @@ Below is a quick overview of the Guppy classes that Guppy Classifier can recogni
 <table>
   <tr>
     <td align="center">
-      <strong>HOme Page</strong><br/>
+      <strong>Home Page</strong><br/>
       <img src="./Home.jpg" alt="Main Page" width="200"/><br/>
       <sub>The Main Page is the starting point of the app. From here, users can navigate to the dictionary, open the camera or upload screen, and access other features of Guppy Classifier.</sub>
     </td>
     <td align="center">
       <strong>Status</strong><br/>
-      <img src="./Status.jpg" alt="Dictionary Page" width="200"/><br/>
+      <img src="./Status.jpg" alt="Status" width="200"/><br/>
       <sub>The Status is where you can view the (Model status, total classes, model format and target accuracy).</sub>
     </td>
   </tr>
@@ -206,19 +206,19 @@ Below is a quick overview of the Guppy classes that Guppy Classifier can recogni
 Below are sample screens showing the Guppies that Guppy Classifier can classify:
 
 <p align="center">
-  <img src="app_screenshots/Fly Agaric.jpg" alt="Fly Agaric" width="165"/>
-  <img src="app_screenshots/Morel.jpg" alt="Morel" width="165"/>
-  <img src="app_screenshots/Oyster.jpg" alt="Oyster" width="165"/>
-  <img src="app_screenshots/Chanterelle.jpg" alt="Chanterelle" width="165"/>
-  <img src="app_screenshots/Button.jpg" alt="Button" width="165"/>
+  <img src="./full red class.jpg" alt="Full Red" width="165"/>
+  <img src="./BM class.jpg" alt="Black Moscow" width="165"/>
+  <img src="./blue dragon class.jpg" alt="Blue Dragon" width="165"/>
+  <img src="./cobra class.jpg" alt="Cobra" width="165"/>
+  <img src="./dumbo ear class.jpg" alt="Dumbo Ear" width="165"/>
 </p>
 
 <p align="center">
-  <img src="app_screenshots/Reishi.jpg" alt="Reishi" width="165"/>
-  <img src="app_screenshots/Enoki.jpg" alt="Enoki" width="165"/>
-  <img src="app_screenshots/Black Trumpet.jpg" alt="Black Trumpet" width="165"/>
-  <img src="app_screenshots/Coral.jpg" alt="Coral" width="165"/>
-  <img src="app_screenshots/Bleeding Tooth.jpg" alt="Bleeding Tooth" width="165"/>
+  <img src="./endler_s class.jpg" alt="Endler's" width="165"/>
+  <img src="./hb pastel class.jpg" alt="HB Pastel" width="165"/>
+  <img src="./panda class.jpg" alt="Panda" width="165"/>
+  <img src="./pl white class.jpg" alt="Platinum White" width="165"/>
+  <img src="./red dragon class.jpg" alt="Red Dragon" width="165"/>
 </p>
 
 These screens show the guppies included in the model, helping users know which guppies they can scan with the app.
