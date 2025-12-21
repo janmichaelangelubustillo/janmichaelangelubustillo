@@ -223,6 +223,15 @@ Below are sample screens showing the Guppies that Guppy Classifier can classify:
 
 These screens show the guppies included in the model, helping users know which guppies they can scan with the app.
 
+### Class Information
+
+<p align="center">
+  <img src="./Class_info.jpg" alt="Class Information 1" width="200"/>
+  <img src="./Class_info_2 (1).jpg" alt="Class Information 2" width="200"/>
+  <img src="./Class_info_3.jpg" alt="Class Information 3" width="200"/>
+  <img src="./Class_info_4.jpg" alt="Class Information 4" width="200"/>
+</p>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
@@ -261,9 +270,9 @@ These screens show the guppies included in the model, helping users know which g
     </td>
     <td align="center">
       <strong>Scan History</strong><br/>
-      <img src="./History.jpg" alt="History Page" width="200"/><br/>
-      <img src="./History_2.jpg" alt="History Page" width="200"/><br/>
-      <img src="./History_3.jpg" alt="History Page" width="200"/><br/>
+      <img src="./History.jpg" alt="History Page" width="200"/>
+      <img src="./History_2.jpg" alt="History Page" width="200"/>
+      <img src="./History_3.jpg" alt="History Page" width="200"/>
       <img src="./History_4.jpg" alt="History Page" width="200"/><br/>
       <sub>The History page keeps a record of past scans, including the detected class, accuracy and sources. This lets users review previous results and track their usage of Guppy Classifier.</sub>
     </td>
